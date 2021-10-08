@@ -1,7 +1,7 @@
 # apipkg is required by execnet
-apipkg==1.5 \
-    --hash=sha256:58587dd4dc3daefad0487f6d9ae32b4542b185e1c36db6993290e7c41ca2b47c \
-    --hash=sha256:37228cda29411948b422fae072f57e31d3396d2ee1c9783775980ee9c9990af6
+apipkg==2.1.0 \
+    --hash=sha256:e5d85ce3a2e622734c5daebb213df044d4cedee1031fbe98add3c73ca5995b94 \
+    --hash=sha256:a4be31cf8081e660d2cdea6edfb8a0f39f385866abdcfcfa45e5a0887345cb70
 # execnet is required by pytest-xdist
 execnet==1.8.1 \
     --hash=sha256:e840ce25562e414ee5684864d510dbeeb0bce016bc89b22a6e5ce323b5e6552f \
