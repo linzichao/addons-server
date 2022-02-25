@@ -528,6 +528,6 @@ wrapt==1.12.1 \
 cached-property==1.5.2 \
     --hash=sha256:df4f613cf7ad9a588cc381aaf4a512d26265ecebd5eb9e1ba12f1319eb85a6a0 \
     --hash=sha256:9fa5755838eecbb2d234c3aa390bd80fbd3ac6b6869109bfc1b499f7bd89a130
-django-jsonfield-backport==1.0.3 \
-    --hash=sha256:c2a559a32b95406a08f02fabc0aec08efa9ce677f4e206ababb6a303359419a8 \
-    --hash=sha256:e5645cf17f252879e3759eb28caecd51692a000a076de9d91e5a1de03cb9542e
+django-jsonfield-backport==1.0.5 \
+    --hash=sha256:40c39b1f1bade47bd2715664de14983f2e0a96175f65abbad2688029c255c685 \
+    --hash=sha256:727b402bad632e38539b489e48aefa6ffe03cedba76ac1f11b455423b3225a2d
