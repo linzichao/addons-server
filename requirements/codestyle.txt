@@ -32,9 +32,9 @@ parsy==1.3.0 \
     --hash=sha256:bea54186c3da470944dafe2314b57ac53d0dc2b0a168dc32f644b1b93dc6ca64 \
     --hash=sha256:bfc941ea5a69e6ac16bd4f7d9f807bbc17e35edd8b95bcd2499a25b059359012
 # click is required by curlylint
-click==8.0.1 \
-    --hash=sha256:fba402a4a47334742d782209a7c79bc448911afe1149d07bdabdf480b3e2f4b6 \
-    --hash=sha256:8c04c11192119b1ef78ea049e0a6f0463e4c48ef00a30160c704337586f3ad7a
+click==8.1.2 \
+    --hash=sha256:24e1a4a9ec5bf6299411369b208c1df2188d9eb8d916302fe6bf03faed227f1e \
+    --hash=sha256:479707fe14d9ec9a0757618b7a100a0ae4c4e236fac5b7f80ca68028141a1a72
 # pathspec is required by curlylint
 pathspec==0.8.1 \
     --hash=sha256:aa0cb481c4041bf52ffa7b0d8fa6cd3e88a2ca4879c533c9153882ee2556790d \
