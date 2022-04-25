@@ -5,9 +5,9 @@ Jinja2==2.11.3 \
     --hash=sha256:03e47ad063331dd6a3f04a43eddca8a966a26ba0c5b7207a9a9e4e08f1b29419 \
     --hash=sha256:a6d58433de0ae800347cab1fa3043cebbabe8baa9d29e668f1c768cb87a333c6
 # Pygments is required by Sphinx
-Pygments==2.9.0 \
-    --hash=sha256:d66e804411278594d764fc69ec36ec13d9ae9147193a1740cd34d272ca383b8e \
-    --hash=sha256:a18f47b506a429f6f4b9df81bb02beab9ca21d0a5fee38ed15aef65f0545519f
+Pygments==2.12.0 \
+    --hash=sha256:5eb116118f9612ff1ee89ac96437bb6b49e8f04d8a13b514ba26f620208e26eb \
+    --hash=sha256:dc9c10fb40944260f6ed4c688ece0cd2048414940f1cea51b8b226318411c519
 # Sphinx is required by sphinxcontrib-httpdomain
 Sphinx==3.5.4 \
     --hash=sha256:2320d4e994a191f4b4be27da514e46b3d6b420f2ff895d064f52415d342461e8 \
